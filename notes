@@ -3,3 +3,8 @@
 3. Export db sql dump (full, with db creation) from phpmyadmin
 4. Download phpunit (https://phpunit.de/getting-started/phpunit-11.html), place in C:\xampp
 5. Run test via  `php phpunit-11.5.55.phar C:\Users\legusie\Documents\GitHub\phppg\htdocs`
+
+1. Install docker-desktop
+2. Create dockerfile
+3. Make app configurable
+4. Create docker-compose.yaml
