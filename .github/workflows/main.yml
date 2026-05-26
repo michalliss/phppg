@@ -11,3 +11,4 @@ jobs:
     - uses: php-actions/phpunit@v4
       with:
         version: 11.5.55 
+        args: htdocs
